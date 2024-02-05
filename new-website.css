@@ -1,0 +1,211 @@
+*{
+    max-width: 100%;
+}
+.doc{
+    color: white;
+    text-align: center;
+    background-color: rgb(40,183,107);
+    height: 250px;  
+    line-height: 0.9;
+    padding-top: 20PX; 
+   
+}
+#form1{
+    width: 45%;
+    margin-left: 350px;
+    border-radius:70px;
+    margin-top: 10px;
+    padding: 9.3px;
+    
+}
+.search{
+    display: inline;
+}
+.navbar-brand{
+    position: relative;
+    right: 70px;
+}
+p{
+    font-size: 20px;
+}
+.navbar-nav{
+    position: relative;
+    left: 70px;
+}
+.container2{
+   display: flex;
+   flex-wrap: wrap ;
+   row-gap: 50px;
+   column-gap: 50px;
+   width: 100%;
+   margin-top: 50px;
+   justify-content: center;
+   margin-bottom: 50px;
+}
+.dct{
+    font-size: 30px;
+}
+.card1-h5{
+     margin-left: 20px;
+
+}
+i{
+    color: rgb(40,183,107) ;
+}
+button{
+    background-color:  rgb(40,183,107);
+}
+#cardicon1{
+   
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#cardicon2{
+    
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#cardicon3{
+    
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#cardicon4{
+    
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#cardicon5{
+
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#cardicon6{
+
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#cardicon7{
+
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#cardicon8{
+
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#cardicon9{
+
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#btnicon{
+
+    margin-right: 10px;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+.lastsection{
+    text-align: center;
+    background-color: rgb(40,183,107);
+    color: white;
+    height: 270px;
+    padding-top: 20px;
+    
+}
+a{
+    color: white;
+}
+button{
+    background-color: white;
+    border-radius: 5PX;
+    padding-bottom: 10PX;
+    border-color: white;
+    color: rgb(40,183,107);
+}
+.foot{
+    display: inline-block;
+    margin-left: 500px;
+    text-align: center;
+    margin-top: 30px;
+   
+}
+.card{
+    padding: 35px;
+}
+.card:hover {
+    background-color: rgba(200, 600, 200, 600);
+    box-shadow: 12px;
+  }
+  .p1{
+    font-size: medium;
+  }  
+  .lastp{
+    font-size: 13px;
+  }
+#i1{
+    margin-right: 30px;
+}
+#i2{
+    margin-right: 30px;
+}
+#i3{
+    margin:30px;
+}
+#i4{
+    margin-right: 30px;
+}
+#i5{
+    margin-right: 30px;
+}
+#i6{
+    margin-right: 30px;
+}
+#card1{
+    width: 27%;
+}
+#card2{
+    width: 27%;
+}
+#card3{
+    width: 27%;
+}
+#card4{
+    width: 27%;
+}
+#card5{
+    width: 27%;
+}
+#card6{
+    width: 27%;
+}
+#card7{
+    width: 27%;
+}
+#card8{
+    width: 27%;
+}
+#card9{
+    width: 27%;
+    
+}
+#dwnbutton{
+    background-color: rgb(40,183,107);
+    margin-right: 5px;
+}
+#ic1{
+   position: relative;
+   top: 40px;
+   left: 250px;
+}
